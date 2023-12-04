@@ -1,0 +1,16 @@
+google-cloud-aiplatform==1.25.0
+gradio
+openai 
+langchain
+deep-translator
+cryptography
+duckduckgo-search
+nltk
+boto3
+requests 
+uuid
+google-api-python-client
+fasttext-langdetect
+torch
+transformers
+scikit-learn
